@@ -1,0 +1,11 @@
+C:\Users\Latitude 5580\Desktop\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\Users\Latitude 5580\Desktop\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\Latitude 5580\Desktop\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+C:\Users\Latitude 5580\Desktop\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+C:\Users\Latitude 5580\Desktop\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Latitude 5580\Desktop\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\Latitude 5580\Desktop\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+C:\Users\Latitude 5580\Desktop\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\Latitude 5580\Desktop\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\Latitude 5580\Desktop\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Latitude 5580\Desktop\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
